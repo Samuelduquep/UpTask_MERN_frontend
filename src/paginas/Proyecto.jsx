@@ -13,7 +13,7 @@ import ModalFormularioColaborador from "../components/ModalFormularioColaborador
 
 import Tarea from "../components/Tarea";
 import Alerta from "../components/Alerta";
-import Colaborador from "./colaborador";
+import Colaborador from "./Colaborador";
 
 
 let socket;
