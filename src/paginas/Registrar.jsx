@@ -65,7 +65,10 @@ const Registrar = () => {
      setEmail('')
      setPassword('')
      setRepetirPassword('')
-     navigate('/')
+     setTimeout(() => {
+      navigate('/')
+     }, 3000);
+     
 
 
     } catch (error) {
